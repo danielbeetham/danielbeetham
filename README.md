@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @danielbeetham
 - 👀 I’m interested in Mathematics, Teaching, Python
-- 🌱 I’m currently learning Multivariate Calculus and Linear Algebra.
+- 🌱 I’m currently learning Real and Complex Analysis and  Basic Statistics.
 - 📫 How to reach me danielbeetham@gmail.com
 
 <!---
