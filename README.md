@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @danielbeetham
 - 👀 I’m interested in Mathematics, Teaching, Python
-- 🌱 I’m currently learning Real and Complex Analysis and  Basic Statistics.
+- 🌱 I’m currently learning How to teach Mathematics in Secondary School.
+- ⭐ Check out more about me https://danielbeetham.com/
 - 📫 How to reach me danielbeetham@gmail.com
 
 <!---
